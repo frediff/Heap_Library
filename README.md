@@ -10,4 +10,4 @@ This library contains definitions of functions required to implement Heap data s
 - ```delMax(person* heap[],lui &sz)``` : delete root element of heap
 - ```heap[0]``` : pointer to element positioned in root of heap
 
-<strong> * Note : The code contains definitions and not implementation! * </strong>
+<strong>  Note : The code contains definitions and not implementation! </strong>
